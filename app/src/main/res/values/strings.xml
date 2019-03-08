@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <!--List of some african countries-->
+    <string-array name="african_countries">
+        <item>Ghana</item>
+        <item>Nigeria</item>
+        <item>Togo</item>
+        <item>Benin</item>
+        <item>Malawi</item>
+        <item>Liberia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+
+</resources>
